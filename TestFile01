@@ -1,0 +1,7 @@
+git clone https://github.com/Nischda/RepoTests
+git status
+git add Bla1
+git add -A
+git commit -m "commit message"
+git config --global user.email "Me@Mail.de"
+git config --global user.name "MyName"
